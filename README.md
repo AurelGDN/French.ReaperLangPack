@@ -36,9 +36,6 @@ Community-maintained collection of language packs for REAPER
 Forum Thread:  
 [Interface de REAPER en Français(LangPack Fr)](http://forum.cockos.com/showthread.php?t=92847)
 
-## Installation
-
-Copy and paste this URL in Extensions > ReaPack > Import a repository:
 
 
 ## Contributing
