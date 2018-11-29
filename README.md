@@ -8,6 +8,9 @@ Travail en cours=>
 
 => WIP_REAPER_SWS_S&M-langpack-francais/REAPER_SWS_590.ReaperLangPack
 
+```
+https://raw.githubusercontent.com/AurelGDN/Langpack_FR_CockosReaper/master/WIP_REAPER_SWS_S%26M-langpack-francais/REAPER_SWS_590.ReaperLangPack
+```
 
 
 # ReaTeam LangPacks Repository
@@ -37,9 +40,6 @@ Forum Thread:
 
 Copy and paste this URL in Extensions > ReaPack > Import a repository:
 
-```
-https://github.com/ReaTeam/LangPacks/raw/master/index.xml
-```
 
 ## Contributing
 
