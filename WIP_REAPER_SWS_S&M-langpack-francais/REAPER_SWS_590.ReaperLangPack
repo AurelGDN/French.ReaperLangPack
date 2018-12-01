@@ -155,7 +155,7 @@ DDAB6253F0B71B7C=Export automatique
 14AB0E343C321037=Afficher toutes les pistes
 
 ######## added in template (section: common):
-;F65E388D0DE5B8F0=Auto Color/Icon/Layout
+F65E388D0DE5B8F0=Auto Couleur/Icone/Disposition
 ;1E7DE9407D998715=[MASTER]
 
 ######## not in template, possibly obsolete (section: common):
@@ -1717,14 +1717,14 @@ AB9C316595623D4C=Afficher la fenêtre de gestion des couleurs,
 ;^941DEA15C4817EEC=Set color...
 
 ######## added in template (section: sws_DLG_115):
-;059278571080DB88=SWS/S&M Auto Color/Icon/Layout
-;BA4CFCB54BDB155C=&Add rule
-;97326A0F5E97936B=Rule type
-;D0413FFB35F82310=TCP Layout
-;4F482AB174CBB18D=MCP Layout
-;4617E6E1E48E15E2=(record armed)
-;FB26EF3BC962AA1C=(vca master)
-;0D28F03CCF4892E2=(Double-click to edit layout name)
+059278571080DB88=SWS/S&M Auto Couleur/Icone/Disposition
+BA4CFCB54BDB155C=&Ajouter une règle
+97326A0F5E97936B=Type de règle
+D0413FFB35F82310=TCP Disposition
+4F482AB174CBB18D=MCP Dispositions
+4617E6E1E48E15E2=(Enregistrement armé)
+FB26EF3BC962AA1C=(Master vca)
+0D28F03CCF4892E2=(Double cliquer pour modifier le nom de la disposition)
 ;^F65E388D0DE5B8F0=Auto Color/Icon/Layout
 
 ######## not in template, possibly obsolete (section: sws_DLG_115):
@@ -2204,7 +2204,7 @@ E53622684802B745=Master
 ;^49657903B7B9A626=Sans_nom
 
 ######## added in template (section: sws_DLG_150):
-;F53DF338478ECE5D=Do you want to overwrite selected slots?\nIf you select No, new slots/files will be added.
+F53DF338478ECE5D=Voulez-vous écraser les ports sélectionnés?\nSi non est sélectionné, de nouveaux ports/fichiers seront ajoutés.
 
 ######## not in template, possibly obsolete (section: sws_DLG_150):
 67B4EE990F8BC743=Définir le chargeur/sélecteur de projet à partir de la sélection
@@ -2273,7 +2273,7 @@ DCBC08D7646FB89E=S&M - Exporter un fichier de sous-titres
 ;^0FA72D95CADAE6E8=S&M - Error
 
 ######## added in template (section: sws_DLG_152):
-;4C1A46FF066F5D73=Extra project notes
+4C1A46FF066F5D73=Note de projet supplémentaire
 
 [sws_DLG_153] ; IDD_SNM_WAIT
 6C5250317FE06771=S&M - Patientez SVP...
@@ -2371,6 +2371,7 @@ CCBE59482013A10C=Piste d'entrée pour la Config de scène n°%d (optionnelle)  [
 ;^D8ADC6186B88361A=on
 ;^B762E77EB85D7B6C=off
 
+######## Last edit 01/12/2018
 ######## added in template (section: sws_DLG_155):
 ;14A7DD25F97A7713=Comment/OSC message
 ;9624CBAEB2970D2D=Controller smoothing:
