@@ -6,7 +6,7 @@ Répertoire de travail pour la traduction francophone de REAPER Cockos et des ex
 Fichier à modifier:
 Travail en cours=>
 
-=> WIP_REAPER_SWS_S&M-langpack-francais/REAPER_SWS_590.ReaperLangPack
+=> WIP_REAPER_SWS_S&M-langpack-francais/REAPER_SWS_590_french.ReaperLangPack
 
 ```
 https://raw.githubusercontent.com/AurelGDN/Langpack_FR_CockosReaper/master/WIP_REAPER_SWS_S%26M-langpack-francais/REAPER_SWS_590.ReaperLangPack
