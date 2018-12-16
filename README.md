@@ -20,9 +20,8 @@ Vous pouvez aussi simplement faire de la relecture et proposer des corrections, 
 #### Ne pas modifier les intitulés de section entre crochets                  ex:  [actions]
 #### Ne pas modifier les intitulés de chaîne en début de ligne                 ex: 4A46D7685C3008EB=
 
-##### Les commentaires de lignes ';' sont des chaînes à traduire
-##### Les commentaires de lignes ';^' sont des chaînes optionnelles 
-(traduites dans la section [common] à gérer au cas par cas surtout dans l'optique d'optimiser l'affichage à l'écran des chaînes plus longues aprés traduction.
+Les commentaires de lignes ';' sont des chaînes à traduire
+ Les commentaires de lignes ';^' sont des chaînes optionnelles, traduites dans la section [common] à gérer au cas par cas surtout dans l'optique d'optimiser l'affichage à l'écran des chaînes plus longues aprés traduction.
 
 En cas de besoin il existe aussi cette fonction pour redimmensionner certaine fenêtre exemple: 5CA1E00000000000=xsc ysc
 à insérer en début de section
@@ -40,7 +39,7 @@ Filière anglophone: https://forum.cockos.com/showthread.php?p=1481913#post14819
 
 # GDN_tools
 
-J'ai réalisé quelques scripts afin de faciliter les manipulations autour de liste d'action => cf tagger_tool
+Réalisation de quelques scripts afin de faciliter les manipulations autour de liste d'action => cf tagger_tool: remove tagg, add_tag
 L'intéret étant de pouvoir utiliser la liste d'action avec des versions du Langpack plus au moins à jour et une version récente  de REAPER => la mixité Anglais/Français dans la liste d'action peut poser problème au filtrage des actions
 
 Mise à disposition d'un lexique pour comprendre les termes choisis et aussi dans l'optique d'homogéineiser les traductions du LangpackFr
