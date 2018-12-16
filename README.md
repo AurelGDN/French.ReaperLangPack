@@ -19,7 +19,7 @@ Cependant vous trouverez ici tous les outils nécessaires pour oeuvrer à la gé
 En outre, si vous n'avez pas peur de Git, les Pull Requests sont les bienvenues bien sûr. N'hésitez pas à me contacter ici ou ailleurs pour employer nos efforts de façon stratégique (inutile que l'on s'emploi à traduire 2 fois la même string...)
 Vous pouvez aussi simplement faire de la relecture et proposer des corrections, améliorations.
 
-#### Le chercher/remplacer est à manipuler avec grande précaution, souvent générateur de problème si vous avez le click facile
+#### Le chercher/remplacer est à manipuler avec grande précaution, souvent générateur de problème si vous avez le clic facile
 #### Ne pas modifier les intitulés de section entre crochets                  ex:  [actions]
 #### Ne pas modifier les intitulés de chaîne en début de ligne                 ex: 4A46D7685C3008EB=
 
@@ -71,18 +71,11 @@ Et plus généralement les participants de ce fil:
 
 <h1 class="markdown-body pl-sr">REAPER lexique</h1>
 
-
-
-
 </div>
   <h2 class="pl-ent ">LangPack Fr </h2>
   <div class="markdown-body"></div>
 
-
   <h3 class="markdown-body pl-s">mot clé => Tag Us </h3>
-
-
-
 
 <table class="markdown-body">
   <thead>
