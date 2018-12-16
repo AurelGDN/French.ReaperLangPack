@@ -1,3 +1,6 @@
+<div class="markdown-body img;"><img background-color="#9CA8A8" src="tagger_tool(GDN)/Reaper.png" style="object-fit: contain;"></div>'
+
+
 # Langpack_FR_CockosReaper
 
 Répertoire de travail pour la traduction francophone de REAPER Cockos et des extensions SWS
@@ -65,9 +68,9 @@ Et plus généralement les participants de ce fil:
 
 
 <bodyclass="markdown-body pl-6">
-<div style="background-repeat: no-repeat;background-size: 75%;background-image: url('Reaper.png')">
+
 <h1 class="markdown-body pl-sr">REAPER lexique</h1>
-<div class="markdown-body img;"><img background-color="black" src="tagger_tool(GDN)/Reaper.png" style="object-fit: contain;"></div>'
+
 
 
 
