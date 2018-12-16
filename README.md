@@ -10,7 +10,7 @@ Travail en cours=>  => WIP_REAPER_SWS_S&M-langpack-francais/REAPER_SWS_590_frenc
 ```
 https://raw.githubusercontent.com/AurelGDN/Langpack_FR_CockosReaper/master/WIP_REAPER_SWS_S%26M-langpack-francais/REAPER_SWS_590.ReaperLangPack
 ```
-<div class="markdown-body img;"><img src="tagger_tool(GDN)/Reaper.jpg" style="object-fit: contain;"></div>
+<div class="markdown-body img;"><img src="tagger_tool(GDN)/reaper.jpg" style="object-fit: contain;"></div>
 
 ## Contribute / contribuer
 
