@@ -63,14 +63,6 @@ Mise à disposition d'un lexique pour comprendre les termes choisis et aussi dan
 Et plus généralement les participants de ce fil:  
 [Interface de REAPER en Français(LangPack Fr)](http://forum.cockos.com/showthread.php?t=92847)
 
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-
-    <link rel="stylesheet" type="text/css" href="css/md.css" media="all"/>
-    <meta charset="utf-8">
-    <title>REAPER lexique</title>
-  </head>
 
 <body
 class="markdown-body pl-6"
@@ -84,8 +76,8 @@ background-image: url('Reaper.png')">
 
       <h1 class="markdown-body pl-sr">REAPER lexique</h1>
 
-<!--    <div class="markdown-body img;"><img src="Reaper.png" style="object-fit: contain;"></div>'
--->
+<div class="markdown-body img;"><img src="Reaper.png" style="object-fit: contain;"></div>'
+
 
 
 </div>
