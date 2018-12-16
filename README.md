@@ -67,7 +67,7 @@ Et plus généralement les participants de ce fil:
 <bodyclass="markdown-body pl-6">
 <div style="background-repeat: no-repeat;background-size: 75%;background-image: url('Reaper.png')">
 <h1 class="markdown-body pl-sr">REAPER lexique</h1>
-<div class="markdown-body img;"><img src="tagger_tool(GDN)/Reaper.png" style="object-fit: contain;"></div>'
+<div class="markdown-body img;"><img background-color="black" src="tagger_tool(GDN)/Reaper.png" style="object-fit: contain;"></div>'
 
 
 
