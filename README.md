@@ -34,11 +34,11 @@ Cependant vous trouverez ici tous les outils nécessaires pour oeuvrer à la gé
 En outre, si vous n'avez pas peur de Git, les Pull Requests sont les bienvenues bien sûr. N'hésitez pas à me contacter ici ou ailleurs pour employer nos efforts de façon stratégique (inutile que l'on s'emploi à traduire 2 fois la même string...)
 Vous pouvez aussi simplement faire de la relecture et proposer des corrections, améliorations.
 
-# Le chercher/remplacer est à manipuler avec grande précaution, souvent générateur de problème si vous avez le click facile
-# Ne pas modifier les intitulés de section entre crochets                  ex:  [actions]
-# Ne pas modifier les intitulés de chaîne en début de ligne                 ex: 4A46D7685C3008EB=
-# Les commentaires de lignes ';' sont des chaînes à traduire
-# Les commentaires de lignes ';^' sont des chaînes optionnelles 
+### Le chercher/remplacer est à manipuler avec grande précaution, souvent générateur de problème si vous avez le click facile
+### Ne pas modifier les intitulés de section entre crochets                  ex:  [actions]
+### Ne pas modifier les intitulés de chaîne en début de ligne                 ex: 4A46D7685C3008EB=
+### Les commentaires de lignes ';' sont des chaînes à traduire
+### Les commentaires de lignes ';^' sont des chaînes optionnelles 
 (traduites dans la section [common] à gérer au cas par cas surtout dans l'optique d'optimiser l'affichage à l'écran des chaînes plus longues aprés traduction.
 
 En cas de besoin il existe aussi cette fonction pour redimmensionner certaine fenêtre exemple: 5CA1E00000000000=xsc ysc
