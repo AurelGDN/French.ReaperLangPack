@@ -10,7 +10,7 @@ Travail en cours=>  => WIP_REAPER_SWS_S&M-langpack-francais/REAPER_SWS_590_frenc
 ```
 https://raw.githubusercontent.com/AurelGDN/Langpack_FR_CockosReaper/master/WIP_REAPER_SWS_S%26M-langpack-francais/REAPER_SWS_590.ReaperLangPack
 ```
-<div class="markdown-body img;"><img src="tagger_tool(GDN)/reaper.jpg" style="object-fit: contain;"></div>
+<div class="markdown-body img;"><img src="tagger_tool(GDN)/reaper.jpg" style="object-fit: contain;"></img></div>
 
 ## Contribute / contribuer
 
@@ -66,7 +66,7 @@ Mise à disposition d'un lexique pour comprendre les termes choisis et aussi dan
 Et plus généralement les participants de ce fil:  
 [Interface de REAPER en Français(LangPack Fr)](http://forum.cockos.com/showthread.php?t=92847)
 
-
+<div class="markdown-body img;"><img src="tagger_tool(GDN)/Reaper.png" style="object-fit: contain;"></img></div>
 <bodyclass="markdown-body pl-6">
 
 <h1 class="markdown-body pl-sr">REAPER lexique</h1>
