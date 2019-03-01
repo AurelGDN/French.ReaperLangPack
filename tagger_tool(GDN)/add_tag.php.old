@@ -179,8 +179,29 @@ foreach ($file_lines as $line) {
       array('préserver', 'preserve',$x),
       array('ligne de zéro', 'baseline',$x),
       array('chaloupé', 'swing',$x),
-      array('divide', 'diviser',$x),
+      array('diviser', 'divide',$x),
       array('écrire', 'write',$x),
+      array('Config de scène', 'Live Config',$x),
+      array('hors ligne', 'offline',$x),
+      array('en ligne', 'online',$x),
+      array('modèle de piste', 'track template',$x),
+      array('enclancher', 'trigger',$x),
+      array('factice', 'dummy',$x),
+      array('icône', 'icon',$x),
+      array('port', 'slot',$x),
+      array('actions personalisées', 'custom actions',$x),
+      array('action personalisée', 'custom action',$x),
+      array('purger', 'flush',$x),
+      array('arrêt', 'stop',$x),
+      array('plan Z', 'Z line order',$x),
+      array('affecter', 'set',$x),
+      array('définir', 'set',$x),
+      array('régler', 'set',$x),
+      array('entrée', 'input',$x),
+      array('sortie', 'output',$x),
+      array('charger', 'load',$x),
+      array('précharger', 'reload',$x),
+      array('ajustement', 'trim',$x),
 
 
 
@@ -211,7 +232,7 @@ foreach ($file_lines as $line) {
         $x =  S::create($line)->containsAny([$key[0]], false);
 
         if ($x === true) {
-            $line= S::create($line)->append('{'.$key[1].'} ');
+            $line= S::create($line)->append('['.$key[1].'] ');
         } else {
             $line=  S::create($line)->append('');
         }
