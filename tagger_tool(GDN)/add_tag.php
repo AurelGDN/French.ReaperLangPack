@@ -3,7 +3,7 @@
 require 'vendor/autoload.php';
 use Stringy\Stringy as S;
 
-$file_lines = file("action.txt");
+$file_lines = file("action_sws.txt");
 
 foreach ($file_lines as $line) {
     $x=null;
