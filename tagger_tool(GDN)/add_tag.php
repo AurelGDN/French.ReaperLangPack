@@ -123,11 +123,9 @@ foreach ($file_lines as $line) {
       array('notes fantômes', 'trailing note',$x),
       array('bourse', 'pool',$x),
       array('timebase', 'base temporelle',$x),
-      array(' forme ', 'shape',$x),
       array('repères média', 'cues',$x),
       array('envoi', 'send',$x),
       array('défiler', 'scroll',$x),
-      array('défilement', 'scroll',$x),
       array('retours', 'receive',$x),
       array('réglage de fenêtre', 'screenset',$x),
       array('réglage', 'settings',$x),
@@ -175,12 +173,23 @@ foreach ($file_lines as $line) {
       array('courbe de tempo', 'tempo map',$x),
       array('sous-enveloppe', 'underlying',$x),
       array('déplacement', 'moving',$x),
-      array('déplacer', 'move',$x),
       array('préserver', 'preserve',$x),
       array('ligne de zéro', 'baseline',$x),
       array('chaloupé', 'swing',$x),
       array('divide', 'diviser',$x),
       array('écrire', 'write',$x),
+      array('action liées', 'action binding',$x),
+      array('chunk', 'fragment',$x),
+      array('décompte', 'count-in',$x),
+      array('rogner', 'crop',$x),
+      array('atténuer', 'dim',$x),
+      array('premier plan', 'focus',$x),
+
+
+
+
+
+
 
 
 
